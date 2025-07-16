@@ -22,6 +22,12 @@ This is a full-stack movie recommendation system built using:
 ---
 
 ##  Screenshots
+<h3>🏠 Home Screen</h3>
+<img src="ScreenShorts/02.jpg" width="300"/>
+
+<h3>🎬 Movie Detail</h3>
+<img src="ScreenShorts/03.jpg" width="300"/>
+
 
 ###  Welcome Screen
 ![Welcome Screen](ScreenShorts/02.jpg)
