@@ -1,7 +1,7 @@
 # Movie
 A full-stack movie recommendation system using Android (Kotlin) + FastAPI, with Retrofit API calls, CSV-based filtering, and genre-based search and display.
 
-#  Movie Recommendation App
+#  Movie Recommendation App - NexView
 
 This is a full-stack movie recommendation system built using:
 -  **FastAPI** (Python) for backend APIs
