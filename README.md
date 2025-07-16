@@ -22,11 +22,37 @@ This is a full-stack movie recommendation system built using:
 ---
 
 ##  Screenshots
-<h3>🏠 Home Screen</h3>
-<img src="ScreenShorts/02.jpg" width="100"/>
+<!-- Row 1 -->
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <div style="text-align: center;">
+    <h4> Welcome Screen </h4>
+    <img src="ScreenShorts/02.jpg" width="200"/>
+  </div>
+  <div style="text-align: center;">
+    <h4> Register Screen </h4>
+    <img src="ScreenShorts/04.jpg" width="200"/>
+  </div>
+  <div style="text-align: center;">
+    <h4> Login Screen </h4>
+    <img src="ScreenShorts/03.jpg" width="200"/>
+  </div>
+</div>
 
-<h3>🎬 Movie Detail</h3>
-<img src="ScreenShorts/03.jpg" width="300"/>
+<!-- Row 2 -->
+<div style="margin-top: 20px; display: flex; justify-content: space-around; align-items: center;">
+  <div style="text-align: center;">
+    <h4> Home Screen </h4>
+    <img src="ScreenShorts/05.jpg" width="200"/>
+  </div>
+  <div style="text-align: center;">
+    <h4> Genre Filter </h4>
+    <img src="ScreenShorts/06.jpg" width="200"/>
+  </div>
+  <div style="text-align: center;">
+    <h4> Search Screen </h4>
+    <img src="ScreenShorts/07.jpg" width="200"/>
+  </div>
+</div>
 
 
 ###  Welcome Screen
