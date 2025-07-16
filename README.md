@@ -22,6 +22,19 @@ This is a full-stack movie recommendation system built using:
 ---
 
 ##  Screenshots
+
+## 📸 Screenshots
+
+### Main UI
+
+| ![](ScreenShorts/02.jpg) | ![](ScreenShorts/04.jpg) | ![](ScreenShorts/03.jpg) |
+|---------------------------|---------------------------|---------------------------|
+| Welcome Screen            | Register Screen           | Login Screen              |
+
+| ![](ScreenShorts/05.jpg) | ![](ScreenShorts/06.jpg) | ![](ScreenShorts/07.jpg) |
+|---------------------------|---------------------------|---------------------------|
+| Home Screen               | Genre Filter              | Search Screen             |
+
 <!-- Row 1 -->
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <div style="text-align: left;">
