@@ -21,6 +21,30 @@ This is a full-stack movie recommendation system built using:
 
 ---
 
+##  Screenshots
+
+###  Welcome Screen
+![Welcome Screen](ScreenShorts/02.jpg)
+
+###  Login Screen
+![Login Screen](ScreenShorts/03.jpg)
+
+###  Register Screen
+![Register Screen](ScreenShorts/04.jpg)
+
+###  Home Screen
+![Home Screen](ScreenShorts/05.jpg)
+
+###  Home Screen
+![Home Screen](ScreenShorts/05.jpg)
+
+###  Filter Screen
+![Filter_by Screen](ScreenShorts/05.jpg)
+
+###  Search Screen
+![Search Screen](ScreenShorts/07.jpg)
+
+
 ##  Backend (FastAPI)
 
 ###  Key Endpoints
