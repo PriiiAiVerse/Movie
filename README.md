@@ -27,45 +27,17 @@ This is a full-stack movie recommendation system built using:
 
 ### Main UI
 
-| ![](ScreenShorts/02.jpg) | ![](ScreenShorts/04.jpg) | ![](ScreenShorts/03.jpg) |
 |---------------------------|---------------------------|---------------------------|
 | Welcome Screen            | Register Screen           | Login Screen              |
-
-| ![](ScreenShorts/05.jpg) | ![](ScreenShorts/06.jpg) | ![](ScreenShorts/07.jpg) |
+|---------------------------|---------------------------|---------------------------|
+| ![](ScreenShorts/02.jpg)  | ![](ScreenShorts/04.jpg)  | ![](ScreenShorts/03.jpg)  |
+|---------------------------|---------------------------|---------------------------|
 |---------------------------|---------------------------|---------------------------|
 | Home Screen               | Genre Filter              | Search Screen             |
+|---------------------------|---------------------------|---------------------------|
+| ![](ScreenShorts/05.jpg)  | ![](ScreenShorts/06.jpg)  | ![](ScreenShorts/07.jpg)  |
+|---------------------------|---------------------------|---------------------------|
 
-<!-- Row 1 -->
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <div style="text-align: left;">
-    <h4> Welcome Screen </h4>
-    <img src="ScreenShorts/02.jpg" width="200"/>
-  </div>
-  <div style="text-align: center;">
-    <h4> Register Screen </h4>
-    <img src="ScreenShorts/04.jpg" width="200"/>
-  </div>
-  <div style="text-align: right;">
-    <h4> Login Screen </h4>
-    <img src="ScreenShorts/03.jpg" width="200"/>
-  </div>
-</div>
-
-<!-- Row 2 -->
-<div style="margin-top: 20px; display: flex; justify-content: space-around; align-items: center;">
-  <div style="text-align: center;">
-    <h4> Home Screen </h4>
-    <img src="ScreenShorts/05.jpg" width="200"/>
-  </div>
-  <div style="text-align: center;">
-    <h4> Genre Filter </h4>
-    <img src="ScreenShorts/06.jpg" width="200"/>
-  </div>
-  <div style="text-align: center;">
-    <h4> Search Screen </h4>
-    <img src="ScreenShorts/07.jpg" width="200"/>
-  </div>
-</div>
 
 
 ##  Backend (FastAPI)
