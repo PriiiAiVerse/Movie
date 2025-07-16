@@ -24,7 +24,7 @@ This is a full-stack movie recommendation system built using:
 ##  Screenshots
 <!-- Row 1 -->
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <div style="text-align: center;">
+  <div style="text-align: left;">
     <h4> Welcome Screen </h4>
     <img src="ScreenShorts/02.jpg" width="200"/>
   </div>
@@ -32,7 +32,7 @@ This is a full-stack movie recommendation system built using:
     <h4> Register Screen </h4>
     <img src="ScreenShorts/04.jpg" width="200"/>
   </div>
-  <div style="text-align: center;">
+  <div style="text-align: right;">
     <h4> Login Screen </h4>
     <img src="ScreenShorts/03.jpg" width="200"/>
   </div>
@@ -53,28 +53,6 @@ This is a full-stack movie recommendation system built using:
     <img src="ScreenShorts/07.jpg" width="200"/>
   </div>
 </div>
-
-
-###  Welcome Screen
-![Welcome Screen](ScreenShorts/02.jpg)
-
-###  Login Screen
-![Login Screen](ScreenShorts/03.jpg)
-
-###  Register Screen
-![Register Screen](ScreenShorts/04.jpg)
-
-###  Home Screen
-![Home Screen](ScreenShorts/05.jpg)
-
-###  Home Screen
-![Home Screen](ScreenShorts/05.jpg)
-
-###  Filter Screen
-![Filter_by Screen](ScreenShorts/05.jpg)
-
-###  Search Screen
-![Search Screen](ScreenShorts/07.jpg)
 
 
 ##  Backend (FastAPI)
