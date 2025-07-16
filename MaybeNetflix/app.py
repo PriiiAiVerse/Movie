@@ -13,7 +13,7 @@ from pydantic import BaseModel
 app = FastAPI()
 
 # Load environment variable for TMDB API key
-TMDB_API_KEY = os.getenv("TMDB_API_KEY", "f74bb2bb370b70b05e3884ee9679202a")
+TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 
 # Load movie metadata
 metadata = pd.read_csv("tmdb_5000_movies.csv")
